@@ -31,7 +31,7 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://unity.com//" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/unity.png"/>
+    <a href="https://unity.com//" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png"/>
     <a href="https://www.unrealengine.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/>   
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 

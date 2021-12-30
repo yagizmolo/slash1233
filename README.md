@@ -72,7 +72,7 @@
 <a href = "https://www.linkedin.com/in/yagiz-molo-2951a7115/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yagizmolo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/yagizmolo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCXoZbuQ9copQWP3evpRQxzw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 

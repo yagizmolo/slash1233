@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://images.hdqwalls.com/wallpapers/baby-yoda-cute-5k-ef.jpg" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://images.hdqwalls.com/wallpapers/baby-yoda-cute-5k-ef.jpg" height="75px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yagiz</h1>
 <h3 align="center">An Engineer who is passionate about Computers.</h3>
